@@ -17,7 +17,7 @@ cd .. :Nos lleva una carpeta atras
 cd . :Nos mantiene en la misma carpeta
 cd ~/carpeta/subcarpeta/ : Nos mueve entre carpetas
 
-Nota: Para escribir un espacio en ruta usar "\ ".Pe. "~/carpeta/sub\ carpeta/"\n
+Nota: Para escribir un espacio en ruta usar "\ ".Pe. "~/carpeta/sub\ carpeta/"
 
 Use la pagina :
 
