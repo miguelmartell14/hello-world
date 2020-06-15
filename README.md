@@ -2,11 +2,13 @@
 Primera prueba github
 
 Este es el primer documento que se desarrolla usando git y siendo escrito en
-VIM. Vamos a hablar de los comandos más básicos para empezar a usar linux. \n
+VIM. Vamos a hablar de los comandos más básicos para empezar a usar linux. 
 
-Shorcut para abrir terminal: Control + Alt + T \n
+Shorcut para abrir terminal: Control + Alt + T 
 
-Comandos:\n\n
+Comandos:
+
+
 ls: Muestra los archivos y carpetas que se encuentran en la ruta actual
 
 ls -a: Muestra los archivos y carpetas incluidos archivos ocultos en la ruta actual.
