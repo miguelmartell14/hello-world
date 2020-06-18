@@ -21,7 +21,7 @@ Ya que tenemos nuestra terminal vamos a mostrar los comandos mas sencillos y út
 
 **ls -a**: Muestra los archivos y carpetas incluidos archivos ocultos en la ruta actual.
 
-** cd**: Nos lleva a la ruta raiz
+**cd**: Nos lleva a la ruta raiz
 
 **cd ..**:Nos lleva una carpeta atras
 
@@ -98,11 +98,9 @@ lo básico de compresión.
 Existen muchísimos comando pero considero que son los comandos más basicos que nos pueden servir para iniciar a usar la terminal,
 conforme se vaya avanzando en el repositorio se iran viendo posiblemente mas comando, y será habitual su uso.
 
-Dejo al final una lista con los mas comunes, [aquí](https://courses.cs.washington.edu/courses/cse390a/14au/bash.html)
+Dejo al final una lista con los más comunes, [aquí](https://courses.cs.washington.edu/courses/cse390a/14au/bash.html)
 
-
-Existen muchos 
-Use la pagina :
+Use la página :
 
 https://linuxhint.com/git_tutorial_beginners/
 
